@@ -84,7 +84,7 @@ About Me = [
 <div align="center">
     <h3><b>Tools</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://duckduckgo.com/?q=github+icon&t=newext&atb=v440-1&iax=images&ia=images&iai=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F11%2FGitHub-Symbol.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" title="Eclipse" alt="eclipse" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" title="PyCharm" alt="PyCharm" width="40" height="40"/></a></code>&nbsp;
@@ -95,34 +95,34 @@ About Me = [
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-![Arya's Stats](https://github-readme-stats.vercel.app/api?username=geekyarya&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![Adit's Stats](https://github-readme-stats.vercel.app/api?username=Aditsri99&theme=transparent&show_icons=true&hide_border=false&count_private=true)
 
 
 <hr>
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)](https://git.io/streak-stats)-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geekyarya&theme=transparent&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditsri99&theme=transparent&count_private=true)](https://git.io/streak-stats)
 
 
 <hr>
 
- <!--![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)-->
+ <!--![ Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)-->
 
- ![Arya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyarya&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
+ ![Adit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditsri99&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
 
 
 <hr>
 
-<!--[![Aakarshit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=github-compact)]()-->
+<!--[![ github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=github-compact)]()-->
 
-[![Arya's github activity](https://github-readme-activity-graph.vercel.app/graph?username=geekyarya&theme=github-compact)]()
+[![Adit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=Aditsri99&theme=github-compact)]()
 
 
 <hr>
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)-->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aryapratapsingh1?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/srivastava_adit?ext=activity)
 
 
 <hr>
@@ -131,13 +131,13 @@ About Me = [
 
 ![snake gif](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=geekyarya&label=Visitors&icon=0&pretty=true)]()
+[![](https://visitcount.itsvg.in/api?id=Aditsri99&label=Visitors&icon=0&pretty=true)]()
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
 </p>
 
-<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; height: 100vh;">
